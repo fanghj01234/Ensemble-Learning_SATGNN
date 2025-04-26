@@ -7,7 +7,14 @@ This repository contains two separate projects, each located in their respective
 2. **[Project 2 Name](/folder2/)** - Brief description of the second project.
 
 ## Project Structure
-
+repository-root/
+├── folder1/ # Contains all files for Project 1
+│ ├── ...
+│ └── ...
+├── folder2/ # Contains all files for Project 2
+│ ├── ...
+│ └── ...
+└── README.md # This file
 
 ## Getting Started
 
