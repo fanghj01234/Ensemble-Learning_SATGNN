@@ -7,3 +7,15 @@ This repository contains two separate projects, each located in their respective
 2. **[Project 2 Name](/folder2/)** - Brief description of the second project.
 
 ## Project Structure
+
+
+## Getting Started
+
+Each project has its own setup and installation instructions. Please navigate to the respective project folder for more details:
+
+- [Project 1 Instructions](/folder1/README.md)
+- [Project 2 Instructions](/folder2/README.md)
+
+## License
+
+[Specify license information if applicable]
