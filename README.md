@@ -5,7 +5,10 @@ This repository contains two separate projects, each located in their respective
 1. **[Ensemble Learning](/Ensemble%20Learning/)** 
 2. **[SATGNN](/SATGNN/)** 
 
-
+**Notes:**  
+- Each project runs independently and requires separate dependency installation. 
+- See each project's `README.md` for detailed instructions.  
+<!--
 ## Project Structure
 
 ```
@@ -20,7 +23,5 @@ my-repository/
 │   └── app.py               # Flask 主程序
 └── README.md                # 仓库总说明
 ```
+-->
 
-详细说明：
-- 每个项目独立运行，需分别安装依赖。
-- 具体用法见各项目内的 `README.md`。
